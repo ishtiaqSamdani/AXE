@@ -1,0 +1,2 @@
+(this["webpackJsonpax-example"]=this["webpackJsonpax-example"]||[]).push([[0],[,,function(e,t,n){e.exports=n(11)},function(e,t,n){},,,,,,,function(e,t,n){},function(e,t,n){"use strict";n.r(t);n(3);var a=n(0),r=n.n(a),c=n(1),o=n.n(c),i="_3ybTi",u=function(e){var t=e.text;return r.a.createElement("div",{className:i},"Example Component: ",t)},l=(n(10),function(){return r.a.createElement(u,{text:"Create React Library Example \ud83d\ude04"})});o.a.render(r.a.createElement(l,null),document.getElementById("root"))}],[[2,1,2]]]);
+//# sourceMappingURL=main.433d5bb3.chunk.js.map
